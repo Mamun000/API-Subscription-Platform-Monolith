@@ -125,7 +125,7 @@ server.js README.md
 
 1.  Clone the repository
 
-git clone https://github.com/yourusername/api-platform-monolith.git
+git clone https://github.com/Mamun000/API-Subscription-Platform-Monolith.git
 
 2.  Navigate to the project
 
@@ -183,7 +183,7 @@ Mamun Islam
 
 Software Developer | Backend & AI Enthusiast
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Mamun000
 
 ------------------------------------------------------------------------
 
